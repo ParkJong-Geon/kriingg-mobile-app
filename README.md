@@ -45,3 +45,34 @@ Struktur Proyek
 └── README.md
 
 ```
+
+## 📸 Screenshot Aplikasi
+
+### Register Screen
+
+![Register Screen](assets/screenshot%20app/signup.jpg)
+
+### Login Screen
+
+![Register Screen](assets/screenshot%20app/login.jpg)
+
+### Menu List Screen
+
+![Menu List](assets/screenshot%20app/menulist_1.jpg)
+
+### Menu Form
+
+![Menu List](assets/screenshot%20app/menuform.jpg)
+
+### Menu List 2 Screen
+
+![Menu List](assets/screenshot%20app/menulist_2.jpg)
+
+### Menu Detail Screen
+
+![Menu List](assets/screenshot%20app/menudetail.jpg)
+
+### Menu Edit Form
+
+![Menu List](assets/screenshot%20app/editform.jpg)
+
